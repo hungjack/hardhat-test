@@ -7,7 +7,7 @@ require("@nomiclabs/hardhat-etherscan");
 require("dotenv").config();
 const ALCHEMY_API_KEY="55925076b72f482dbe1227a84af64a40";
 
-const goerli="f4ca3d333356e265eacd6eff3034324489ceddc8d2335555473e6281c7aaca73";
+const goerli="";
 module.exports = {
   solidity: "0.7.3",
   etherscan: {
